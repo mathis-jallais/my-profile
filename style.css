@@ -1,0 +1,72 @@
+body {   
+
+text-align: center;      
+background-color:  grey ;
+background-image: url(images/fondrose.jpg);
+background-size: cover; 
+}
+
+h2 {
+  color: red ;
+	font-size: 20px;
+	font-family: 'Hepta Slab', serif;
+	text-decoration: underline;
+}
+
+h3 {
+  color: blue ;
+	font-size: 20px;
+	font-family: 'Crimson Pro', serif;
+}
+
+p {
+	color: black;
+
+}
+
+.avatar {
+	width:200px;
+	border-radius: 30%;
+}
+
+.card-white {
+	display: flex;
+	padding: 16px;
+	border-radius: 10%; 
+	margin-bottom: 10px;
+}
+
+.card-red {
+	background-color: white;
+	padding: 16px;
+	border-radius: 10%; 
+	margin-bottom: 10px;
+}
+
+.card-yellow {
+	background-color: white;
+	padding: 16px;
+	border-radius: 10%; 
+	margin-bottom: 10px;
+}
+
+.card-grey {
+	background-color: white;
+	padding: 16px;
+	border-radius: 10%; 
+	margin-bottom: 10px;
+}
+
+.card-blue {
+	background-color: white;
+	padding: 16px;
+	border-radius: 10%; 
+	margin-bottom: 10px;
+}
+
+.container {
+	background-color: white;
+	padding: 16px;
+	border-radius: 10%; 
+	margin-bottom: 10px;
+}
